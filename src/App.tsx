@@ -312,6 +312,176 @@ function App() {
                 </div>
               </div>
             </div>
+            <div className="project-card">
+              <div className="project-image">
+                <div className="project-placeholder">Auth Design</div>
+              </div>
+              <div className="project-content">
+                <h3>Modern Authentication UI</h3>
+                <p>A clean and modern authentication interface with split-screen design, gradient backgrounds, and social login integration. Features responsive layout and smooth animations.</p>
+                <div className="project-tech">
+                  <span>React</span>
+                  <span>TypeScript</span>
+                  <span>CSS3</span>
+                  <span>Responsive</span>
+                  <span>UI/UX</span>
+                </div>
+                <div className="project-links">
+                  <a 
+                    href="https://4-1-delta.vercel.app/" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="btn-small"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Live Demo
+                  </a>
+                  <a 
+                    href="#" 
+                    className="btn-small secondary"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Source Code
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="project-card">
+              <div className="project-image">
+                <div className="project-placeholder">eStartup</div>
+              </div>
+              <div className="project-content">
+                <h3>eStartup - Business Landing Page</h3>
+                <p>A comprehensive business landing page featuring modern design, services showcase, pricing plans, and contact forms. Includes dropdown navigation, hero section, and multiple content sections for startup businesses.</p>
+                <div className="project-tech">
+                  <span>HTML5</span>
+                  <span>CSS3</span>
+                  <span>JavaScript</span>
+                  <span>Bootstrap</span>
+                  <span>Responsive</span>
+                </div>
+                <div className="project-links">
+                  <a 
+                    href="https://11-1-phi.vercel.app/" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="btn-small"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Live Demo
+                  </a>
+                  <a 
+                    href="#" 
+                    className="btn-small secondary"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Source Code
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="project-card">
+              <div className="project-image">
+                <div className="project-placeholder">Topic</div>
+              </div>
+              <div className="project-content">
+                <h3>Topic - Creative Platform</h3>
+                <p>A modern creative platform website featuring "Discover. Learn. Enjoy" theme with web design and finance topics. Includes search functionality, topic listings, and a clean interface for creatives around the world.</p>
+                <div className="project-tech">
+                  <span>HTML5</span>
+                  <span>CSS3</span>
+                  <span>JavaScript</span>
+                  <span>Responsive</span>
+                  <span>Creative Design</span>
+                </div>
+                <div className="project-links">
+                  <a 
+                    href="https://7-11-two.vercel.app/" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="btn-small"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Live Demo
+                  </a>
+                  <a 
+                    href="#" 
+                    className="btn-small secondary"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Source Code
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="project-card">
+              <div className="project-image">
+                <div className="project-placeholder">HOSTIT</div>
+              </div>
+              <div className="project-content">
+                <h3>HOSTIT - Web Services Platform</h3>
+                <p>A professional web hosting and services platform featuring "Fast and Secure Web Services" with AWS integration. Includes service showcase, contact forms, and modern design for web hosting solutions.</p>
+                <div className="project-tech">
+                  <span>HTML5</span>
+                  <span>CSS3</span>
+                  <span>JavaScript</span>
+                  <span>AWS</span>
+                  <span>Web Services</span>
+                </div>
+                <div className="project-links">
+                  <a 
+                    href="https://20-1.vercel.app/" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="btn-small"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Live Demo
+                  </a>
+                  <a 
+                    href="#" 
+                    className="btn-small secondary"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Source Code
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="project-card">
+              <div className="project-image">
+                <div className="project-placeholder">Theatre</div>
+              </div>
+              <div className="project-content">
+                <h3>Theatre Booking Platform</h3>
+                <p>A comprehensive theatre booking and management platform featuring show listings, venue information, ticket purchasing, and user dashboard. Includes cloud storage integration and modern booking interface.</p>
+                <div className="project-tech">
+                  <span>React</span>
+                  <span>TypeScript</span>
+                  <span>CSS3</span>
+                  <span>Cloud Storage</span>
+                  <span>Booking System</span>
+                </div>
+                <div className="project-links">
+                  <a 
+                    href="https://21-1.vercel.app/" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="btn-small"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Live Demo
+                  </a>
+                  <a 
+                    href="#" 
+                    className="btn-small secondary"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    Source Code
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
